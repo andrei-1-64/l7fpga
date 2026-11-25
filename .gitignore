@@ -1,0 +1,9 @@
+db/
+incremental_db/
+simulation/
+*.qws
+*.bak
+*.zip
+_diana_vechi/
+**/output_files/*
+!**/output_files/*.sof

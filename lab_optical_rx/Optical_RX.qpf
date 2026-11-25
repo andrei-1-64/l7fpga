@@ -1,0 +1,4 @@
+QUARTUS_VERSION = "25.1"
+DATE = "16:22:00  November 23, 2026"
+
+PROJECT_REVISION = "Optical_RX"
